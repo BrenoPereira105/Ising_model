@@ -3,6 +3,6 @@ implementation of ising model
 
 The ising model is a toy model for interactions in statistical mechanics. Here it is used the hamiltonian
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1"
+H = -J \sum_{i,j} s_i s_j - \sum_{i}h_i s_i
 
-$$H = -J \sum_{i,j} s_i s_j$$
+It is also considered periodic boundary conditions, T^2 = R^2/Z^2.
