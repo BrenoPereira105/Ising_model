@@ -3,6 +3,8 @@ implementation of ising model
 
 The ising model is a toy model for interactions in statistical mechanics. Here it is used the hamiltonian
 
-![\Large H = -J \sum_{i,j} s_i s_j](https://latex.codecogs.com/svg.latex?\Large&space;H = -J \sum_{i,j} s_i s_j) 
+\begin{equation}
+agbc
+\end{equation}
 
 $$H = -J \sum_{i,j} s_i s_j$$
