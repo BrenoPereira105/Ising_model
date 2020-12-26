@@ -7,4 +7,4 @@ H = -J \sum_{i,j} s_i s_j - \sum_{i}h_i s_i
 
 It is also considered periodic boundary conditions, T^2 = R^2/Z^2. For simplification, it is considered that the system does not interact with external sources. Also, the boltzmann constant \kappa and the interaction energy J are considered to be \kappa = J = 1. Below is a 30x30 grid in its initial state
 
-[!image](https://github.com/BrenoPereira105/Ising_model/10000000_steps_50_grid_t0.png)
+![image](https://github.com/BrenoPereira105/Ising_model/10000000_steps_50_grid_t0.png)
