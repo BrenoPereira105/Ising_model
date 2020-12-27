@@ -57,9 +57,6 @@ print("steps: ", steps)
 
 print("size: ", size_num)
 
-# Create the x, y, and z coordinate arrays.  We use 
-# numpy's broadcasting to do all the hard work for us.
-# We could shorten this even more by using np.meshgrid.
 x = np.arange(A.shape[0])[:, None, None]
 y = np.arange(A.shape[1])[None, :, None]
 z = np.arange(A.shape[2])[None, None, :]
