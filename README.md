@@ -1,5 +1,5 @@
-# 2D_Ising_model
-implementation of ising model
+# Ising_model
+implementation of ising model with monte carlo method
 
 The ising model is a toy model for interactions in statistical mechanics. Here it is used the hamiltonian
 
