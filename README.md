@@ -25,7 +25,7 @@ I also generated a 3d grid. Below is a 15x15x15 cube in its initial random state
 
 ![alt text](https://github.com/BrenoPereira105/Ising_model/blob/main/100000_steps_15_grid_t0.png)
 
-and then after 100000 interactions
+and then after 100000 interactions...
 
 ![alt text](https://github.com/BrenoPereira105/Ising_model/blob/main/100000_steps_15_grid_tfinal.png)
 
